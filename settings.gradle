@@ -1,0 +1,3 @@
+include ':oglHelper'
+include ':demo'
+rootProject.name = "OGL"
